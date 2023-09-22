@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
 </head>
-<body style ="background-color: lightblue", background="1.jfif">
+<body>
     <h1 style="text-align: center; color: white; font-size: 70px;"><b><strong>The presentation of group 7</strong></b></h1>
     <img src="2.png" width= 600px height= 500px align="middle" style="display: block; margin-left: auto; margin-right: auto;">
     <ul>
